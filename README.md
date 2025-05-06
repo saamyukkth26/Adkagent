@@ -1,6 +1,6 @@
 # Adkagent
 
-Here’s a **complete README.md** template for your Vertex AI Agent project that includes setup, running instructions, folder structure, deployment, and usage details. You can copy this directly into your GitHub repo:
+Here’s a **complete README.md** template for your Vertex AI Agent project that includes setup, running instructions, folder structure, deployment, and usage details.
 
 ---
 
